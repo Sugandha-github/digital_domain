@@ -51,4 +51,4 @@ A parameterizable asynchronous FIFO (dual-clock FIFO) for safely transferring da
 └── README.md
 └── Block Diagram of FIFO
 └── Simulation Waveform
-``.
+```
