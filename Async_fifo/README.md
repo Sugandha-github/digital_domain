@@ -47,7 +47,7 @@ A parameterizable asynchronous FIFO (dual-clock FIFO) for safely transferring da
 ├── rtl/
 │   └── a_fifo_top.v          # FIFO RTL
 ├── tb/
-│   └── tb_a_fifo_top.sv       # Testbench (see verification README)
+│   └── tb_a_fifo_top.sv      # Testbench 
 └── README.md
 └── Block Diagram of FIFO
 └── Simulation Waveform
