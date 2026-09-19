@@ -13,10 +13,10 @@ A parameterizable asynchronous FIFO (dual-clock FIFO) for safely transferring da
 
 ## Parameters
 
-| Parameter    | Description                              | Default |
-|--------------|-------------------------------------------|---------|
-| `DATA_WIDTH` | Width of each data word                   | 32      |
-| `ADDR_WIDTH` | Address width; FIFO depth = 2^ADDR_WIDTH  | 5       |
+| Parameter    | Description                                   | Default |
+|--------------|-----------------------------------------------|---------|
+| `DATA_WIDTH` | Width of each data word                       | 32      |
+| `ADDR_WIDTH` | Address width; FIFO depth = 2^ADDR_WIDTH - 1  | 6       |
 
 ## Port List
 
