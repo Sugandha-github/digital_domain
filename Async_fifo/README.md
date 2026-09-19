@@ -45,7 +45,7 @@ A parameterizable asynchronous FIFO (dual-clock FIFO) for safely transferring da
 ```
 .
 ├── rtl/
-│   └── a_fifo_top.sv          # FIFO RTL
+│   └── a_fifo_top.v          # FIFO RTL
 ├── tb/
 │   └── tb_a_fifo_top.sv       # Testbench (see verification README)
 └── README.md
